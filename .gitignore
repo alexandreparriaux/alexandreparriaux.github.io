@@ -1,2 +1,5 @@
 _site/
-
+vendor/
+start.sh
+.bundle/
+README.md
