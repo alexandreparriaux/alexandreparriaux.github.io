@@ -24,6 +24,7 @@ Research and teaching
 - [pychi: Python package for simulating the propagation of optical pulses in nonlinear materials.](https://github.com/pychi-code/pychi)
 - [SNLO: functions to assist in selecting a nonlinear crystal and modeling its performance.](https://as-photonics.com/products/snlo/)
 - [LightwaveExplorer: nonlinear optics simulator](https://github.com/NickKarpowicz/LightwaveExplorer) and [publication related](https://doi.org/10.1364/OPTCON.502567) 
+- [gas_UPPE: gas-filled hollow-core fiber with MM-UPPE](https://github.com/AaHaHaa/gas_UPPE) and [publication related](https://doi.org/10.1063/5.0189749) 
 
 ### Science in general
 

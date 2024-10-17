@@ -5,15 +5,17 @@ permalink: /CV/
 author_profile: true
 ---
 
-Here you will find a short resume related to my academic career. The whole list of my published article is available in the [publication](../publications) section. This page was last updated on February 9, 2024.
+Here you will find a short resume related to my academic career. The whole list of my published article is available in the [publication](../publications) section. This page was last updated on October 17, 2024.
 
 
 ## Scientific production
 
-- h-index of **8** with a total of **359** citations
-- **15 articles published** including one invited review in *Advances in Optics and Photonics*
+- h-index of **9** with a total of **430** citations
+- **16 articles published** including one invited review in *Advances in Optics and Photonics*
+- **1 book chapter**
 - **24 talks** in national and international conferences, including **6 invited**
-- **21 articles reviewed** for international peer-reviewed journals
+- **7 posters** presented in national and international conferences
+- **24 articles reviewed** for international peer-reviewed journals
 - **2** European patents filed
 
 ## Diplomas
