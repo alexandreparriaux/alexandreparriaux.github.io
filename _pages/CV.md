@@ -5,18 +5,18 @@ permalink: /CV/
 author_profile: true
 ---
 
-Here you will find a short resume related to my academic career. The whole list of my published article is available in the [publication](../publications) section. This page was last updated on October 17, 2024.
+Here you will find a short resume related to my academic career. The whole list of my published article is available in the [publication](../publications) section. 
 
 
 ## Scientific production
 
-- h-index of **9** with a total of **430** citations
+- h-index of **9** with a total of **493** citations
 - **16 articles published** including one invited review in *Advances in Optics and Photonics*
 - **1 book chapter**
 - **24 talks** in national and international conferences, including **6 invited**
 - **7 posters** presented in national and international conferences
-- **24 articles reviewed** for international peer-reviewed journals
-- **2** European patents filed
+- **25 articles reviewed** for international peer-reviewed journals
+- **3** European patents filed
 
 ## Diplomas
 
@@ -31,16 +31,18 @@ Université de Bourgogne, Dijon, France.
 
 ## Professional experiences
 
-- **Since 2022** Postdoctoral researcher  
+- **Since 05/2025** Scientific collaborator  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
-- **2021** Postdoctoral researcher  
+- **02/2022 -> 04/2024** Postdoctoral researcher  
+Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
+- **07/2021 -> 01/2022** Postdoctoral researcher  
 Laboratoire Interdisciplinaire Carnot de Bourgogne, Dijon, France.
-- **2020** Research engineer  
+- **10/2020 -> 06/2021** Research engineer  
 SATT Sayens, Dijon, France.
 
 ## Grants
 
-- **2021** Scientific grant from the Carnot foundation
+- **2021** Scientific grant from the [Carnot foundation](http://carnot.org/) 
 - **2017** Academic grant from the Labex ACTION
 
 ## Teaching

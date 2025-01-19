@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome here, where you will mainly find information on my scientific work.
+Welcome here, where you will mainly find information on my scientific work. This website was last updated on January 20, 2025.
 
-I am currently a postdoctoral researcher in the [Time and Frequency laboratory](https://www.unine.ch/ltf/home.html) at the university of Neuchâtel in Switzerland. My main research topic is related to the characterization and stabilization of lasers and frequency combs. In my PhD I also worked on electro-optic frequency comb generation for spectroscopic applications, and nonlinear phenomena in optical fibers.
+I am currently a Scientific collaborator at the [Time and Frequency laboratory](https://www.unine.ch/physique/), at the university of Neuchâtel in Switzerland. My main research topic is related to the characterization and stabilization of lasers and frequency combs. In my PhD I also worked on electro-optic frequency comb generation for spectroscopic applications, and nonlinear phenomena in optical fibers.
 
-For more information, please have a look at the followings links:
+For more information, please have a look at the followings pages:
 
 <p style="text-align: center;">
 <style type="text/css">

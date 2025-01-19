@@ -7,12 +7,18 @@ author_profile: true
 
 Here you will find the list of all my published papers, sorted by year. Most of them are published in open access or have a preprint on arXiv/hal, but if this is not the case and you want access, feel free to contact me.
 
+## 2025
+
+* Alexandre Parriaux, Kenichi N. Komagata, Mathieu Bertrand, Mattias Beck, Valentin J. Wittwer, Jérôme Faist, and Thomas Südmeyer, <i>"Non-resonant Optical Injection Locking in Quantum Cascade Laser Frequency Combs,"</i> Preprint on Arxiv (2024).
+<br>DOI: [10.48550/arXiv.2412.10052](https://doi.org/10.48550/arXiv.2412.10052)
+
+
 ## 2024
 
 * Alexandre Parriaux, Kamal Hammani, and Guy Millot, <i>"Spectroscopy with electro-optic dual frequency combs,"</i> Chap. 9 from the book "Optical Frequency Combs - Trends in Sources and Applications", edited by Auro Michele Perego and Andrew Ellis, (2024). 
 <br>DOI: [10.1201/9781003427605](https://doi.org/10.1201/9781003427605)
 
-* Alexandre Parriaux, Kenichi N. Komagata, Mathieu Bertrand, Valentin J. Wittwer, Jérôme Faist, and Thomas Südmeyer, <i>"Dual-Comb Interferometry for Coherence Analysis of Tightly Locked Mid-Infrared Quantum Cascade Laser Frequency Combs,"</i> Adv. Photonics Res. 2024, 5, 2400006, (2024).
+* Alexandre Parriaux, Kenichi N. Komagata, Mathieu Bertrand, Valentin J. Wittwer, Jérôme Faist, and Thomas Südmeyer, <i>"Dual-Comb Interferometry for Coherence Analysis of Tightly Locked Mid-Infrared Quantum Cascade Laser Frequency Combs,"</i> Adv. Photonics Res. 2024, 5, 2400006 (2024).
 <br>DOI: [10.1002/adpr.202400006](https://doi.org/10.1002/adpr.202400006)
 
 * Alix Malfondet, Moise Deroh, Sidi-Ely Ahmedou, Alexandre Parriaux, Kamal Hammani, Romain Dauliat, Laurent Labonté, Sébastien Tanzilli, Jean-Christophe Delagnes, Philippe Roy, Raphaël Jamier and Guy Millot, <i>"Near-Infrared Dual-Comb Spectroscopy of CO<sub>2</sub> and N<sub>2</sub>O with a Discretized Highly Nonlinear Fiber,"</i> ACS Photonics 11.2, 762-771 (2024).
@@ -86,6 +92,8 @@ Here you will find the list of all my published papers, sorted by year. Most of 
 
 
 # Patents
+
+* Alexandre Parriaux, Kamal Hammani, and Guy Millot. <i>"Spectrometre a deux peignes"</i>. Patent FR3129209B1. 2021.
 
 * Pierre Colman, Alexandre Parriaux, Kamal Hammani, and Guy Millot. <i>"Transposition en fréquence d’un signal optique par mélange de plusieurs ondes"</i>. Patent FR3091933B1, EP3911999B1, US11474413B2. 2019.
 
