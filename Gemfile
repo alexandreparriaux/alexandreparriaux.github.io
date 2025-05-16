@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'nokogiri', '1.18.8', path: '/var/lib/gems/3.1.0/gems/nokogiri-1.18.8'
 end
 
 gem 'github-pages'
