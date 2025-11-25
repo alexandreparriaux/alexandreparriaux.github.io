@@ -5,33 +5,36 @@ permalink: /CV/
 author_profile: true
 ---
 
-Here you will find a short resume related to my academic career. The whole list of my published article is available in the [publication](../publications) section. 
+Here is a short resume of my academic career. My full list of publications is available [here](../publications). 
 
 
 ## Scientific production
 
-- h-index of **9** with a total of **535** citations
-- **16 articles published** including one invited review in *Advances in Optics and Photonics*
-- **1 book chapter**
-- **24 talks** in national and international conferences, including **6 invited**
+- h-index of **10** with a total of more than **600** citations
+- **18 articles published** including one invited review in *Advances in Optics and Photonics*
+- **1 book chapter** published
+- **27 talks** in national and international conferences, including **5 invited**
 - **7 posters** presented in national and international conferences
 - **26 articles reviewed** for international peer-reviewed journals
 - **3** European patents filed
+- **2 invited participations** as member of PhD defense jury
 
 ## Diplomas
 
 - **2020** PhD in Physics, *Frequency comb generation by electro-optic modulation and applications*  
 Supervised by Prof. Guy Millot and Dr. Kamal Hammani  
 Laboratoire Interdisciplinaire Carnot de Bourgogne, Dijon, France.
+
 - **2017** Master’s degree in Physics  
 Université Bourgogne Franche-Comté, Dijon, France  
 École Normale Supérieure, Lyon, France.
-- **2015** Bachelor’s degree in Physics
+
+- **2015** Bachelor’s degree in Physics  
 Université de Bourgogne, Dijon, France.
 
-## Professional experiences
+## Professional experiences after the PhD
 
-- **Since 05/2025** Scientific collaborator  
+- **Since 05/2025** Senior scientist  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
 - **02/2022 -> 04/2024** Postdoctoral researcher  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.

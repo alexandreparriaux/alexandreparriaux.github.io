@@ -13,11 +13,22 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-          <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
-          </li>
+
+          {% if link.children %}
+            <li class="masthead__menu-item has-submenu">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <ul class="submenu">
+                {% for child in link.children %}
+                  <li><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                {% endfor %}
+             </ul>
+            </li>
+          {% else %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

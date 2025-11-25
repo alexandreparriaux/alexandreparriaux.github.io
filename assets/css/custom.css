@@ -1,0 +1,78 @@
+/*  DROPDOWN MENU FIX
+
+/* --- Parent item with submenu --- */
+.has-submenu {
+  position: relative;
+}
+
+/* Add small ▼ indicator */
+.has-submenu > a::after {
+  content: " ▾";
+  font-size: 0.7em;
+  margin-left: 4px;
+}
+
+/* --- Submenu container --- */
+.submenu {
+  display: block;                  /* keep in flow, hidden by opacity/visibility */
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  top: calc(100% + 8px);           /* below parent */
+  left: 0;
+  min-width: 180px;
+  background: white;
+  border: 1px solid #ddd;
+  list-style: none;
+  padding: 6px 0;                  /* vertical breathing room */
+  margin: 0;
+  z-index: 9999;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+  transform: translateY(5px);       /* slight downward offset for animation */
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+}
+
+/* --- Show submenu on hover/focus with fade --- */
+.has-submenu:hover > .submenu,
+.has-submenu:focus-within > .submenu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* --- Submenu items (vertical column) --- */
+.submenu li {
+  display: block !important;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* --- Submenu links --- */
+.submenu li a {
+  display: block;
+  padding: 8px 12px !important;
+  white-space: nowrap;
+  font-weight: normal !important; /* remove bold */
+  text-decoration: none;
+  color: inherit;
+}
+
+/* --- Hover effect on submenu items --- */
+.submenu li a:hover {
+  background: #f2f2f2;
+}
+
+/* --- Remove leftover inherited whitespace --- */
+.submenu,
+.submenu li,
+.submenu li a {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* --- Restore nice padding inside the clickable area --- */
+.submenu li a {
+  padding: 8px 12px !important;
+}

@@ -8,34 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome here, where you will mainly find information on my scientific work. This website was last updated on **May 16, 2025**.
-
-I am currently a Scientific collaborator at the [Time and Frequency laboratory](https://www.unine.ch/physique/), at the university of Neuchâtel in Switzerland. My main research topic is related to the characterization and stabilization of lasers and frequency combs. In my PhD I also worked on electro-optic frequency comb generation for spectroscopic applications, and nonlinear phenomena in optical fibers.
-
-For more information, please have a look at the followings pages:
+I am a senior scientist at the [Laboratoire Temps-Fréquence](https://www.unine.ch/physique/), at the university of Neuchâtel in Switzerland. 
 
 <p style="text-align: center;">
-<style type="text/css">
-.tg th{border-color:white; background-color:white; border-style:solid; border-width:1px; text-align: center;}
-</style>
+<img src="images/unine.jpg" width="200"/>
+</p>
 
-<table class="tg">
-  <tr>
-    <th><a href="/research/">Research topics</a></th>
-    <th><a href="/publications/">Publications</a></th>
-  </tr>
-  <tr>
-    <th><img src="/images/research_topics_img.png" width="500"/></th>
-    <th><img src="/images/publications_img.jpg" width="500"/></th>
-  </tr>
-  <tr>
-    <th><img src="/images/CV_img.jpg" width="500"/></th>
-    <th><img src="/images/links_img.jpg" width="500"/></th>
-  </tr>
-  <tr>
-    <th><a href="/CV/">CV</a></th>
-    <th><a href="/links/">Links</a></th>
-  </tr>
-</table> 
 
-</p>	
+## Overview of my research
+
+My main research topic focuses on frequency combs. During my PhD at the [Laboratoire ICB](https://icb.cnrs.fr/photonique/), I worked on electro-optic frequency comb generation for spectroscopic applications in the near- and mid-infrared. In this context, I studied various nonlinear phenomena in bulk media and optical fibers.
+
+At the [Laboratoire Temps-Fréquence](https://www.unine.ch/physique/), my current research focuses on the characterization and stabilization of different types of lasers, including frequency combs, with the goal of improving their performance. A major topic I have taken an interest in is quantum cascade lasers.
+
+For more information, please visit the [research](../research) section and my [publication](../publications) list. My CV is also available [here](../CV). Do not hesitate to contact me if you have any questions.
+
+<p style="text-align: center;">
+<img src="images/comb.png" width="750"/>
+</p>
+
+
+Last update: **November 25, 2025**.

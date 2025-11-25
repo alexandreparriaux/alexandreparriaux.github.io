@@ -8,11 +8,24 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
   - title: "Research topics"
     url: /research/
+    children:
+      - title: "Quantum Cascade Lasers"
+        url: /research/QCL/
+      - title: "Mode-locked Lasers"
+        url: /research/MLL/
+      - title: "Electro-optic Frequency Combs"
+        url: /research/EOM/
+      - title: "Nonlinear Optics in Optical Fibers"
+        url: /research/NLO/
 
   - title: "Publications"
-    url: /publications/      
+    url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/            
     
   - title: "CV"
     url: /CV/      
