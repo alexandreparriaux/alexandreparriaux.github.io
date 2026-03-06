@@ -7,6 +7,11 @@ author_profile: true
 
 Here you will find the list of all my published papers, sorted by year. Most of them are published in open access or have a preprint on arXiv/hal, but if this is not the case and you want access, feel free to contact me.
 
+## 2026
+
+* Alexandre Parriaux, Ina Heckelmann, Mathieu Bertrand, Mattias Beck, Jérôme Faist, and Thomas Südmeyer, *"Free-Running Ring Quantum Cascade Laser with 50 kHz Linewidth,"* arXiv:2512.14433 [physics.optics].
+<br>DOI: [10.48550/arXiv.2512.14433](https://doi.org/10.48550/arXiv.2512.14433)
+
 ## 2025
 
 * Debanuj Chatterjee, Alexandre Parriaux, Simon Boivinet, Géraud Bouwmans, Damien Labat, Andy Cassez, and Arnaud Mussot, *"Comparative noise analysis of nonlinearly broadened dual frequency combs in different fiber propagation schemes,"* **Optics Express** 33.21, 45014-45023 (2025).

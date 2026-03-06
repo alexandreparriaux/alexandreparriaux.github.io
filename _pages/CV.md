@@ -34,7 +34,9 @@ Université de Bourgogne, Dijon, France.
 
 ## Professional experiences after the PhD
 
-- **Since 05/2025** Senior scientist  
+- **Since 02/2026** Senior Researcher & Lecturer (Maître assistant)  
+Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
+- **05/2025 -> 01/2026** Senior scientist  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
 - **02/2022 -> 04/2024** Postdoctoral researcher  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
@@ -50,9 +52,13 @@ SATT Sayens, Dijon, France.
 
 ## Teaching
 
+- **Since 2026** Teacher in 2nd year of bachelor in natural systems   
+*Thermodynamics lectures and exercices*  
+University of Neuchâtel, Neuchâtel, Switzerland.
+
 - **Since 2022** Teacher in 1st year of bachelor in medicine and biology  
-*Mainly exercice courses and practical works, but I also gave a few lectures*  
-Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
-- **2018** Teacher in two engineering schools  
+*General physics exercice courses and practical works (+ few lectures)*  
+University of Neuchâtel, Neuchâtel, Switzerland.
+- **2018** Teacher in two engineering schools (64h within the PhD)  
 *Practical works*  
-64h within the PhD. AgroSup school and ESIREM school, Dijon, France.
+AgroSup and ESIREM schools, Dijon, France.

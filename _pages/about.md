@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior scientist at the [Laboratoire Temps-Fréquence](https://www.unine.ch/physique/), at the university of Neuchâtel in Switzerland. 
+I am a Senior Researcher & Lecturer (Maître assistant) at the [Laboratoire Temps-Fréquence](https://www.unine.ch/physique/), at the university of Neuchâtel in Switzerland. 
 
 <p style="text-align: center;">
 <img src="images/unine.jpg" width="200"/>
@@ -28,4 +28,4 @@ For more information, please visit the [research](../research) section and my [p
 </p>
 
 
-Last update: **November 25, 2025**.
+Last update: **March 06, 2026**.
