@@ -10,7 +10,7 @@ Here is a short resume of my academic career. My full list of publications is av
 
 ## Scientific production
 
-- h-index of **10** with a total of more than **600** citations
+- h-index of **10** with a total of more than **650** citations
 - **18 articles published** including one invited review in *Advances in Optics and Photonics*
 - **1 book chapter** published
 - **27 talks** in national and international conferences, including **5 invited**
@@ -34,7 +34,7 @@ Université de Bourgogne, Dijon, France.
 
 ## Professional experiences after the PhD
 
-- **Since 02/2026** Senior Researcher & Lecturer (Maître assistant)  
+- **Since 02/2026** Junior Group Leader (Maître assistant)  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
 - **05/2025 -> 01/2026** Senior scientist  
 Laboratoire Temps-Fréquence, Neuchâtel, Switzerland.
@@ -53,7 +53,8 @@ SATT Sayens, Dijon, France.
 ## Teaching
 
 - **Since 2026** Teacher in 2nd year of bachelor in natural systems   
-*Thermodynamics lectures and exercices*  
+*Thermodynamics lectures and exercices*
+*Energy forms and conversions*  
 University of Neuchâtel, Neuchâtel, Switzerland.
 
 - **Since 2022** Teacher in 1st year of bachelor in medicine and biology  

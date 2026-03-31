@@ -25,7 +25,7 @@ author:
   avatar           : "id3.jpg"
   name             : "Alexandre Parriaux"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Researcher & Lecturer"
+  bio              : "Junior Group Leader"
   location         : "Neuchâtel, Switzerland"
   employer         : "Laboratoire Temps-Fréquence"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "alexandreparriaux.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "alexandreparriaux.eurosky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
